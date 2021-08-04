@@ -1,6 +1,6 @@
 ## Hi, Welcome 👋
 
-### Software Development & Machine Learning
+### Software Development & Machine Learning 
 
 #### Portfolio: https://fk-pixel.github.io/FK_Portfolio/
 
@@ -15,6 +15,10 @@
 </a>
 
 <a href="mailto:fthbtlkrt@gmail.com?subject=Hola%20Jiji"><img align="left" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+<a href="https://www.kaggle.com/kurtfcelsius">
+  <img align="left" alt="Kurt F. Celsius | Kaggle" src="https://img.shields.io/badge/Kaggle-348ceb?style=for-the-badge&logo=kaggle&logoColor=white"  >
+</a>
 
 <br>
 
