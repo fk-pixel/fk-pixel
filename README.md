@@ -14,7 +14,7 @@
   <img align="left" alt="Kurt F. Celsius | Medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" >
 </a>
 
-<a href="mailto:fthbtlkrt@gmail.com?subject=Hola%20Jiji"><img align="left" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:fthbtlkrt@gmail.com?subject=Kurt F.%20Celsius"><img align="left" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <a href="https://www.kaggle.com/kurtfcelsius">
   <img align="left" alt="Kurt F. Celsius | Kaggle" src="https://img.shields.io/badge/Kaggle-348ceb?style=for-the-badge&logo=kaggle&logoColor=white"  >
